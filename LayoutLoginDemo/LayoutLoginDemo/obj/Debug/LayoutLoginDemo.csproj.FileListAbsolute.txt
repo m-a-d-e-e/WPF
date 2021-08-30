@@ -1,0 +1,16 @@
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Aug30 - Assignment\LayoutLoginDemo\LayoutLoginDemo\obj\Debug\LayoutLoginDemo.csprojAssemblyReference.cache
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Aug30 - Assignment\LayoutLoginDemo\LayoutLoginDemo\obj\Debug\App.g.cs
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Aug30 - Assignment\LayoutLoginDemo\LayoutLoginDemo\obj\Debug\LayoutLoginDemo_MarkupCompile.cache
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Aug30 - Assignment\LayoutLoginDemo\LayoutLoginDemo\bin\Debug\LayoutLoginDemo.exe.config
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Aug30 - Assignment\LayoutLoginDemo\LayoutLoginDemo\bin\Debug\LayoutLoginDemo.exe
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Aug30 - Assignment\LayoutLoginDemo\LayoutLoginDemo\bin\Debug\LayoutLoginDemo.pdb
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Aug30 - Assignment\LayoutLoginDemo\LayoutLoginDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Aug30 - Assignment\LayoutLoginDemo\LayoutLoginDemo\obj\Debug\LayoutLoginDemo_MarkupCompile.lref
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Aug30 - Assignment\LayoutLoginDemo\LayoutLoginDemo\obj\Debug\MainWindow.baml
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Aug30 - Assignment\LayoutLoginDemo\LayoutLoginDemo\obj\Debug\LayoutLoginDemo.g.resources
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Aug30 - Assignment\LayoutLoginDemo\LayoutLoginDemo\obj\Debug\LayoutLoginDemo.Properties.Resources.resources
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Aug30 - Assignment\LayoutLoginDemo\LayoutLoginDemo\obj\Debug\LayoutLoginDemo.csproj.GenerateResource.cache
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Aug30 - Assignment\LayoutLoginDemo\LayoutLoginDemo\obj\Debug\LayoutLoginDemo.exe
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Aug30 - Assignment\LayoutLoginDemo\LayoutLoginDemo\obj\Debug\LayoutLoginDemo.pdb
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Aug30 - Assignment\LayoutLoginDemo\LayoutLoginDemo\obj\Debug\Registration.g.cs
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Aug30 - Assignment\LayoutLoginDemo\LayoutLoginDemo\obj\Debug\Registration.baml

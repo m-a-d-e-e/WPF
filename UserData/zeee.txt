@@ -1,0 +1,9 @@
+Username = zeee
+Password = 123
+Address = delhi
+Country = India
+Telephone = 54654
+Mobile = No mobile
+Gender = Male
+Maritial status = Married
+Qualification = MBA MCA 
