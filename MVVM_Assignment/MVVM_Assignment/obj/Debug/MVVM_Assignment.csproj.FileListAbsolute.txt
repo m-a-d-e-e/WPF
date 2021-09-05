@@ -1,0 +1,17 @@
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Sept3 - Assignments\MVVM_Assignment\MVVM_Assignment\bin\Debug\MVVM_Assignment.exe.config
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Sept3 - Assignments\MVVM_Assignment\MVVM_Assignment\bin\Debug\MVVM_Assignment.exe
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Sept3 - Assignments\MVVM_Assignment\MVVM_Assignment\bin\Debug\MVVM_Assignment.pdb
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Sept3 - Assignments\MVVM_Assignment\MVVM_Assignment\obj\Debug\MVVM_Assignment.csprojAssemblyReference.cache
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Sept3 - Assignments\MVVM_Assignment\MVVM_Assignment\obj\Debug\MainWindow.g.cs
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Sept3 - Assignments\MVVM_Assignment\MVVM_Assignment\obj\Debug\App.g.cs
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Sept3 - Assignments\MVVM_Assignment\MVVM_Assignment\obj\Debug\MVVM_Assignment_MarkupCompile.cache
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Sept3 - Assignments\MVVM_Assignment\MVVM_Assignment\obj\Debug\MVVM_Assignment_MarkupCompile.lref
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Sept3 - Assignments\MVVM_Assignment\MVVM_Assignment\obj\Debug\MainWindow.baml
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Sept3 - Assignments\MVVM_Assignment\MVVM_Assignment\obj\Debug\MVVM_Assignment.g.resources
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Sept3 - Assignments\MVVM_Assignment\MVVM_Assignment\obj\Debug\MVVM_Assignment.Properties.Resources.resources
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Sept3 - Assignments\MVVM_Assignment\MVVM_Assignment\obj\Debug\MVVM_Assignment.csproj.GenerateResource.cache
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Sept3 - Assignments\MVVM_Assignment\MVVM_Assignment\obj\Debug\MVVM_Assignment.exe
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Sept3 - Assignments\MVVM_Assignment\MVVM_Assignment\obj\Debug\MVVM_Assignment.pdb
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Sept3 - Assignments\MVVM_Assignment\MVVM_Assignment\obj\Debug\Views\FormData.g.cs
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Sept3 - Assignments\MVVM_Assignment\MVVM_Assignment\obj\Debug\Views\FormData.baml
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Sept3 - Assignments\MVVM_Assignment\MVVM_Assignment\obj\Debug\GeneratedInternalTypeHelper.g.cs
